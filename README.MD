@@ -3,17 +3,17 @@
 
 STEP 1
 
-1. Download and unzip the repository of the content/objects
+1.i Downloaded and unzip the repository of the content/objects
 
-2. login to your aws management console
+2.I login to your aws management console
 
-3. select s3
+3.Then i selected the s3
 
-4. upload the object locally to your s3 Bucket by dragging the content to the upload button on your s3 bucket
+4. and then i uploaded the object locally to your s3 Bucket by dragging the content to the upload button on my s3 bucket
 
-5. Objects uploaded successfully on your S3 bucket.
+5. Objects uploaded were successfully on my S3 bucket.
 
-6. After uploading your objects to your s3 bucket, you have to make the bucket publicly readable to be access.
+6. After uploading your objects to my s3 bucket, i had  to make the bucket publicly readable to be access.
 
  
 
